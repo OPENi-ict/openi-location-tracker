@@ -1,0 +1,16 @@
+{
+ "name": "OpeniLocationTracker",
+ "version": "0.1.0",
+ "description": "Tracks Visits By Location",
+ "theme": false,
+ "require": {
+    "piwik": ">=2.10.0"
+ },
+ "authors": [
+     {
+         "name": "Piwik",
+         "email": "",
+         "homepage": ""
+     }
+ ]
+}
